@@ -1,1 +1,2 @@
 ligne 1 from clone
+ligne 2 from clone
