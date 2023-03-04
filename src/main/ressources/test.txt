@@ -2,3 +2,6 @@ ligne 1 from clone
 ligne 2 from clone
 ligne 3 from clone
 ligne 4 from clone
+ligne 1 from Branche1
+ligne 2 from Branche1
+ligne 3 from Branche1
